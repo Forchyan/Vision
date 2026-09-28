@@ -1,4 +1,4 @@
-Домашнее задание по ffmpeg,imagemagick,opencv:
+Домашнее задание по ffmpeg, imagemagick, opencv:
 
 1) script1.sh ffpmeg кадры по 1 секунде. (файлы fr_001-fr_017.png)
 
